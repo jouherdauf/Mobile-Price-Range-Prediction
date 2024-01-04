@@ -26,7 +26,7 @@
 <li><b>Wifi -</b> Has wifi or not</li>
 <li><b>Price_range -</b> This is the target variable with value of 0(low cost), 1(medium cost),2(high cost) and 3(very high cost).</li>
 </ul>
-
+![Alt text](https://github.com/jouherdauf/Mobile-Price-Range-Prediction/blob/main/download.png)
 # **Conclusion**
 <ol>
 <li> The given dataset was very clean it has no null values, no duplicates, and no outliers</li>
