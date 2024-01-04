@@ -31,7 +31,7 @@
 ![download](https://github.com/jouherdauf/Mobile-Price-Range-Prediction/assets/64728749/9d1f1417-1837-4cae-996e-aa04f3a3e6a1)
 
 # **Conclusion**
-<ol></ol>
+<ol>
 
 <li> The given dataset was very clean it has no null values, no duplicates, and no outliers</li>
 
