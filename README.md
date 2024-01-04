@@ -33,7 +33,7 @@
 # **Conclusion**
 <ol>
 
-<li> The given dataset was very clean it has no null values, no duplicates, and no outliers</li>
+<li> The given dataset was very clean it has no null values, no duplicates, and almost no outliers</li>
 
 <li>Half the devices have Bluetooth, and half don’t there is a gradual increase in battery as the price range increases Ram has continuous increase with price range while moving from Low cost to Very high cost.</li>
 
