@@ -26,10 +26,10 @@
 <li><b>Wifi -</b> Has wifi or not</li>
 <li><b>Price_range -</b> This is the target variable with value of 0(low cost), 1(medium cost),2(high cost) and 3(very high cost).</li>
 </ul>
-![Alt text](https://github.com/jouherdauf/Mobile-Price-Range-Prediction/blob/main/download.png)
 
 
 ![download](https://github.com/jouherdauf/Mobile-Price-Range-Prediction/assets/64728749/9d1f1417-1837-4cae-996e-aa04f3a3e6a1)
+
 # **Conclusion**
 <ol></ol>
 
