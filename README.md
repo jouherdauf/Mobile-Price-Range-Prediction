@@ -27,3 +27,15 @@
 <li><b>Price_range -</b> This is the target variable with value of 0(low cost), 1(medium cost),2(high cost) and 3(very high cost).</li>
 </ul>
 
+# **Conclusion**
+<ol>
+<li> The given dataset was very clean it has no null values, no duplicates, and no outliers</li>
+
+<li>Half the devices have Bluetooth, and half don’t there is a gradual increase in battery as the price range increases Ram has continuous increase with price range while moving from Low cost to Very high cost.</li>
+
+<li>Costly phones are lighter.</li>
+
+<li>RAM, battery power, pixels played more significant role in deciding the price range of mobile phone.</li>
+
+<li>Form all the above experiments we can conclude that Logistic Regression>Support Vector Machine>XGboost>Random Forest>Decision Tree> Naive Bayes>KNN with using hyperparameters will got the best results.</li>
+</ol>
