@@ -23,7 +23,7 @@
 <li><b>Sc_w -</b> Screen Width of mobile in cm</li>
 <li><b>Talk_time -</b> longest time that a single battery charge will last when you are</li>
 <li><b>Three_g -</b> Has 3G or not</li>
-<li><b>Wifi -</b> Has wifi or not</li>
+
 <li><b>Price_range -</b> This is the target variable with value of 0(low cost), 1(medium cost),2(high cost) and 3(very high cost).</li>
 </ul>
 
